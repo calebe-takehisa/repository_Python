@@ -3,5 +3,5 @@
 </p>
 
 # Introduction
-* This is my code repository for Python classes, i will also be adding some of my Python skills here. I am placing all projects separating by folders in the same repository, so that it is easier to generate a links to attach to my portfolio separating by content. (Python, SQL, and others)
+* This is my code repository for Python lessons, i will also be adding some of my Python skills here. I am placing all projects separating by folders in the same repository, so that it is easier to generate a links to attach to my portfolio separating by content. (Python, SQL, and others)
 
