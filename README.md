@@ -2,6 +2,6 @@
   <img width="350" height="200" src="https://github.com/calebe-takehisa/repository_Python/blob/master/images/Logo_Python.png?raw=true">
 </p>
 
-# Introduction
-* This is my code repository for Python lessons, i will also be adding some of my Python skills here. I am placing all projects separating by folders in the same repository, so that it is easier to generate a links to attach to my portfolio separating by content. (Python, SQL, and others)
+# Introdução
+Este é meu repositório de código para aulas de Python, também adicionarei algumas de minhas habilidades em Python aqui. Estou colocando todos os projetos separados por pastas no mesmo repositório, para que seja mais fácil gerar um link para anexar ao meu portfólio separando por conteúdo. (Python, SQL e outros)
 
